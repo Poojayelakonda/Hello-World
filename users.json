@@ -1,22 +1,22 @@
 {
     "user1" : {
-       "name" : "kaushal",
-       "password" : "password1",
-       "profession" : "student",
+       "name" : "pooja",
+       "password" : "password",
+       "profession" : "studentworker",
        "id": 1
     },
     
     "user2" : {
-       "name" : "Rohit",
-       "password" : "password2",
-       "profession" : "athlete",
+       "name" : "supriya",
+       "password" : "password",
+       "profession" : "manager",
        "id": 2
     },
     
     "user3" : {
-       "name" : "Sangamesh",
-       "password" : "password3",
-       "profession" : "plumber",
+       "name" : "Shabby",
+       "password" : "password",
+       "profession" : "developer",
        "id": 3
     }
  }
